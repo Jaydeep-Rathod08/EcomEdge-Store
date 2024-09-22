@@ -845,6 +845,9 @@ footer #copyright {
     color: #fff;
 }
 
+#cart {
+    overflow-x: auto;
+}
 
 /* cart page */
 #cart table {
